@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Items>
+ <item>
+  <company_name>Google</company_name>
+  <status>1</status>
+  <company_email>marystoikaaa@gmail.com</company_email>
+  <sales_representative_id/>
+  <legal_name/>
+  <vat_tax_id/>
+  <reseller_id/>
+  <comment/>
+  <street>street</street>
+  <city>City</city>
+  <country_id>CA</country_id>
+  <region/>
+  <region_id>66</region_id>
+  <postcode>12888</postcode>
+  <telephone_map>76543</telephone_map>
+  <customer_group_id>1</customer_group_id>
+  <reject_reason/>
+  <website_id>1</website_id>
+  <email>marystoikaaaa@gmail.com</email>
+  <prefix/>
+  <firstname>Mari</firstname>
+  <middlename/>
+  <lastname>S</lastname>
+  <suffix/>
+  <gender>2</gender>
+  <job_title>Director</job_title>
+ </item>
+ <item>
+  <company_name>Microsoft</company_name>
+  <status>1</status>
+  <company_email>billy@microsoft.com</company_email>
+  <sales_representative_id/>
+  <legal_name>Microsoft</legal_name>
+  <vat_tax_id/>
+  <reseller_id/>
+  <comment>Microsoft Company</comment>
+  <street>street</street>
+  <city>New York</city>
+  <country_id>US</country_id>
+  <region/>
+  <region_id>14</region_id>
+  <postcode>12888</postcode>
+  <telephone_map>6777</telephone_map>
+  <customer_group_id>2</customer_group_id>
+  <reject_reason/>
+  <website_id>1</website_id>
+  <email>billy@microsoft.com</email>
+  <prefix>Mrs.</prefix>
+  <firstname>Bill</firstname>
+  <middlename/>
+  <lastname>Gates</lastname>
+  <suffix/>
+  <gender/>
+  <job_title>Developer</job_title>
+ </item>
+ <item>
+  <company_name>Apple</company_name>
+  <status>2</status>
+  <company_email>steve@apple.com</company_email>
+  <sales_representative_id/>
+  <legal_name>Apple</legal_name>
+  <vat_tax_id/>
+  <reseller_id/>
+  <comment>Apple Company</comment>
+  <street>street</street>
+  <city>Los Angeles</city>
+  <country_id>RU</country_id>
+  <region>St. Petersburg region</region>
+  <region_id/>
+  <postcode>12888</postcode>
+  <telephone_map>8967</telephone_map>
+  <customer_group_id>3</customer_group_id>
+  <reject_reason>We can afford to reject Apple, lol</reject_reason>
+  <website_id>1</website_id>
+  <email>steve@apple.com</email>
+  <prefix>Ms.</prefix>
+  <firstname>Steve</firstname>
+  <middlename/>
+  <lastname>Jobs</lastname>
+  <suffix/>
+  <gender/>
+  <job_title>Tester</job_title>
+ </item>
+ <item>
+  <company_name>FireBear</company_name>
+  <status>1</status>
+  <company_email>email@firebear.com</company_email>
+  <sales_representative_id/>
+  <legal_name>FireBear</legal_name>
+  <vat_tax_id/>
+  <reseller_id/>
+  <comment>FireBear Company</comment>
+  <street>street</street>
+  <city>Moscow</city>
+  <country_id>RU</country_id>
+  <region>Moscow region</region>
+  <region_id/>
+  <postcode>12888</postcode>
+  <telephone_map>3444</telephone_map>
+  <customer_group_id>1</customer_group_id>
+  <reject_reason/>
+  <website_id>1</website_id>
+  <email>john@gmail.com</email>
+  <prefix>Mr.</prefix>
+  <firstname>John</firstname>
+  <middlename>Jr.</middlename>
+  <lastname>Smitt</lastname>
+  <suffix>esq.</suffix>
+  <gender/>
+  <job_title>Director</job_title>
+ </item>
+</Items>

@@ -1,0 +1,8 @@
+sku,tier_price_website,tier_price_customer_group,tier_price_qty,tier_price,tier_price_value_type
+24-MB01,All Websites [USD],ALL GROUPS,30.0000,63.000000,Fixed
+24-MB01,All Websites [USD],General,30.0001,78.000000,Fixed
+24-MB01,All Websites [USD],NOT LOGGED IN,30.0002,58.000000,Fixed
+24-MB03,All Websites [USD],General,40.0000,49.000000,Fixed
+24-MB03,All Websites [USD],NOT LOGGED IN,20.0000,50.000000,Fixed
+24-MB04,All Websites [USD],General,20.0000,20.000000,Fixed
+24-MB04,All Websites [USD],NOT LOGGED IN,30.0000,20.000000,Fixed

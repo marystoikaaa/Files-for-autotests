@@ -1,0 +1,13 @@
+store_id,attribute_set,attribute_code,frontend_label,option:base_value,option:value,option:sort_order,entity_type,group:name,group:sort_order,backend_type,backend_table,frontend_model,frontend_input,frontend_class,source_model,is_required,is_user_defined,default_value,is_unique,note,frontend_input_renderer,is_global,is_visible,is_searchable,is_filterable,is_comparable,is_visible_on_front,is_html_allowed_on_front,is_used_for_price_rules,is_filterable_in_search,used_in_product_listing,used_for_sort_by,apply_to,is_visible_in_advanced_search,position,is_wysiwyg_enabled,is_used_for_promo_rules,is_required_in_admin_store,is_used_in_grid,is_visible_in_grid,is_filterable_in_grid,search_weight,additional_data,option:swatch_value,option:delete_values,option:swatch_type
+0,  Top,testing_color,Color,Green,Green,1,product,General,,int,,,select,,,0,1,,0,,,1,1,1,1,1,1,1,1,1,1,0,"simple,virtual,configurable",1,0,0,0,0,1,0,1,1,"{""swatch_input_type"":""visual"",""update_product_preview_image"":""0"",""use_product_image_for_swatch"":""0""}",#cc00cc,"TEST BAYER,TEST BASF",1
+0,  Top,testing_color,,Blue,Blue,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://firebearstudio.com/media/logos/default/logo.png,,2
+0,  Top,testing_color,,Red,Red,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,#1857f7,,2
+0,  Top,testing_color,,Yellow,Yellow,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,#53a828,,
+1,  Top,testing_color,Couleur,Green,Vert,1,,General,,int,,,select,,,0,1,,0,,,,1,1,1,1,1,1,1,1,1,0,"simple,virtual,configurable",1,0,0,0,0,1,0,1,1,,,,
+1,  Top,testing_color,,Blue,Bleu,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,  Top,testing_color,,Red,Rouge,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,  Top,testing_color,,Yellow,Jaune,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0,  Top,testing_material,Material,,Steel,1,product,General,,int,,,multiselect,,,0,1,,0,,,1,1,1,1,1,1,1,1,1,1,0,"simple,virtual,configurable",1,0,0,0,0,1,0,1,1,,,,
+0,  Top,testing_material,,,Aluminium,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0,  Top,testing_material,,,Wool,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0,  Top,testing_material,,,Cotton,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

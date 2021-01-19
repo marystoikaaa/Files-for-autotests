@@ -1,0 +1,14 @@
+source_code,sku,status,quantity
+new-warehouse,24-MB01,1,50
+new-warehouse,24-MB02,1,50
+new-warehouse,24-MB04,1,50
+new-warehouse,24-MB06,1,50
+old-warehouse,24-MB01,1,50
+old-warehouse,24-MB03,1,50
+old-warehouse,24-MB04,1,50
+old-warehouse,24-MB05,1,50
+default,24-MB02,1,50
+default,24-MB03,1,100
+default,24-MB05,1,100
+default,24-MB06,1,100
+old-warehouse,24-MB06,1,100

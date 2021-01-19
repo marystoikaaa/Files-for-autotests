@@ -1,0 +1,3 @@
+subscriber_email,store_id,subscriber_status,change_status_at,firstname,lastname,password_hash,subscriber_confirm_code
+smith@mail.com,1,3,01/16/20 01:37 PM,John,Smith,9bd16d13fd24f248e13c424f53c03ac3d4b7b9dce26e30b9fc8f45a626ccab5f:MUdB9VFVaNvzdowz:2,jrd8d6yiz6213twiig54enhvk83am6hr
+test@mail.com,1,3,01/16/20 12:14 PM,Test,Test,,4o9r27wexvx6non5lxshmchtu6advlft

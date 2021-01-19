@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Items>
+ <item>
+  <name_map>Default (General)</name_map>
+  <description_map>Default shared catalog</description_map>
+  <type_map>1</type_map>
+  <tax_class_id>3</tax_class_id>
+  <company>marystoikaaa@gmail.com</company>
+ </item>
+ <item>
+  <name_map>Shared Catalog 2</name_map>
+  <description_map>Description of Shared Catalog 2</description_map>
+  <type_map>0</type_map>
+  <tax_class_id>4</tax_class_id>
+  <company>billy@microsoft.com,steve@apple.com</company>
+ </item>
+ <item>
+  <name_map>Shared Catalog 1</name_map>
+  <description_map>Description of Shared Catalog 1</description_map>
+  <type_map>0</type_map>
+  <tax_class_id>3</tax_class_id>
+  <company>email@firebear.com</company>
+ </item>
+ <item>
+  <name_map>Shared Catalog 3</name_map>
+  <description_map/>
+  <type_map>0</type_map>
+  <tax_class_id>3</tax_class_id>
+  <company></company>
+ </item>
+</Items>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Items>
+ <item>
+  <source_code_map>default</source_code_map>
+  <sku_map>24-MB03</sku_map>
+  <status>1</status>
+  <quantity_map>100.0000</quantity_map>
+ </item>
+ <item>
+  <source_code_map>default</source_code_map>
+  <sku_map>24-MB05</sku_map>
+  <status>1</status>
+  <quantity_map>100.0000</quantity_map>
+ </item>
+ <item>
+ <source_code_map>default</source_code_map>
+  <sku_map>24-MB06</sku_map>
+  <status>1</status>
+  <quantity_map>100.0000</quantity_map>
+ </item>
+ <item>
+  <source_code_map>default</source_code_map>
+  <sku_map>24-MB02</sku_map>
+  <status>1</status>
+  <quantity_map>100.0000</quantity_map>
+ </item>
+</Items>

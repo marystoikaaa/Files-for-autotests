@@ -1,0 +1,7 @@
+review_id,sku,nickname,title_map,detail,status,created_at,vote:Quality,vote:Value,vote:Price,vote:Rating
+348,WT09,John (nickname of the reviewer),Great product (This is a review summary field),This is a great product indeed! Thank you for your service! (Review field),Approved,2019-07-24 9:08:36,,,,5
+349,WS12,John,Four star review as an example,Great product nevertheless,Pending,2019-07-24 9:09:04,,,,4
+350,MT07,John Doe,What ?,Is there an instruction?,Not Approved,2019-07-24 9:09:33,,,,5
+351,MT08,John Does,How do I wear it?,Is there an instruction?,Not Approved,2019-07-24 9:09:33,,,,5
+352,MT09,Lilly,How do I wear it?,Is there an instruction?,Not Approved,2019-07-24 9:09:33,,,,5
+353,MT11,Kira,How do I wear it?,Is there an instruction?,Not Approved,2019-07-24 9:09:33,,,,5
