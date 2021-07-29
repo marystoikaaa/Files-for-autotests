@@ -1,0 +1,12 @@
+store_id|entity_type|attribute_set|group:name|group:sort_order|attribute_code|attribute_model|backend_model|backend_type|backend_table|frontend_model|frontend_input|frontend_label|frontend_class|source_model|is_required|is_user_defined|default_value|is_unique|note|frontend_input_renderer|is_global|is_visible|is_searchable|is_filterable|is_comparable|is_visible_on_front|is_html_allowed_on_front|is_used_for_price_rules|is_filterable_in_search|used_in_product_listing|used_for_sort_by|apply_to|is_visible_in_advanced_search|position|is_wysiwyg_enabled|is_used_for_promo_rules|is_required_in_admin_store|is_used_in_grid|is_visible_in_grid|is_filterable_in_grid|search_weight|is_pagebuilder_enabled|additional_data|option:base_value|option:value|option:sort_order|option:swatch_value
+0|product|"New Default"|"Product Details"|10|testing_color|||int|||select|Color|||0|1||0|||1|1|1|1|1|1|1|1|1|1|0|simple,virtual,configurable|1|0|0|0|0|1|0|1|1|0|"{""swatch_input_type"":""visual"",""update_product_preview_image"":""0"",""use_product_image_for_swatch"":""0""}"||Green|1|#3a6638
+0||"New Default"|||testing_color||||||||||||||||||||||||||||||||||||||||Blue|2|#0f4d8f
+0||"New Default"|||testing_color||||||||||||||||||||||||||||||||||||||||Red|3|#8f0f0f
+0||"New Default"|||testing_color||||||||||||||||||||||||||||||||||||||||Yellow|4|#ead039
+1||"New Default"|||testing_color|||||||Couleur||||||||||||||||||||||||||||||||Green|Vert|1|
+1||"New Default"|||testing_color|||||||||||||||||||||||||||||||||||||||Blue|Bleu|2|
+1||"New Default"|||testing_color|||||||||||||||||||||||||||||||||||||||Red|Rouge|3|
+1||"New Default"|||testing_color|||||||||||||||||||||||||||||||||||||||Yellow|Jaune|4|
+0|product|Top|"Product Details"|1|testing_material|||varchar|||text||||1|0||0|||1|1|0|0|0|0|0|0|0|0|0||0|0|0|0|0|0|0|0|1|0|||Aluminium|2|
+0||Top|||testing_material||||||||||||||||||||||||||||||||||||||||Wool|3|
+0||Top|||testing_material||||||||||||||||||||||||||||||||||||||||Cotton|4|
