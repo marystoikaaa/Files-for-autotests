@@ -1,7 +1,7 @@
-block_id,content,creation_time,identifier,is_active,title_new,update_time,store_view_code
-22,"<p>Content of the <strong>custom static block #1</strong>.</p>
-<p>&nbsp;</p>",2019-02-10 7:29:55,custom-block-1,1,Custom static block #1,2019-02-10 7:29:55,All
-23,"<p>Content of the <strong>custom static block #2</strong>.</p>
-<p>&nbsp;</p>",2019-02-10 7:29:55,custom-block-2,1,Custom static block #2,2019-02-10 7:30:17,"All,default"
-24,"<p>Content of the <strong>custom static block #3</strong>.</p>
-<p>&nbsp;</p>",2019-02-10 7:29:55,custom-block-3,1,Custom static block #3,2019-02-10 7:30:38,default
+"block_id","content","creation_time","identifier","is_active","title_new","update_time","store_view_code"
+"","<p>Content of the <strong>custom static block #1</strong>.</p>
+<p>&nbsp;</p>","2019-02-10 7:29:55","custom-block-5","1","Custom static block #5","2019-02-10 7:29:55","All"
+"","<p>Content of the <strong>custom static block #2</strong>.</p>
+<p>&nbsp;</p>","2019-02-10 7:29:55","custom-block-6","1","Custom static block #6","2019-02-10 7:30:17","All,default"
+"","<p>Content of the <strong>custom static block #3</strong>.</p>
+<p>&nbsp;</p>","2019-02-10 7:29:55","custom-block-7","1","Custom static block #7","2019-02-10 7:30:38","default"

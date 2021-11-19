@@ -2,8 +2,8 @@
 <Items>
   <item>
     <creation_time>12/12/12 17:00</creation_time>
-    <title>Sample CMS page 1</title>
-    <identifier>sample_cms_page_1</identifier>
+    <title>Sample CMS page 3</title>
+    <identifier>sample_cms_page_3</identifier>
     <store_view_code>All,default</store_view_code>
     <is_active>1</is_active>
     <content_heading>Home Page Other</content_heading>
@@ -47,8 +47,8 @@
   </item>
   <item>
     <creation_time>12/12/12 17:00</creation_time>
-    <title>Sample CMS page 2</title>
-    <identifier>sample_cms_page_2</identifier>
+    <title>Sample CMS page 4</title>
+    <identifier>sample_cms_page_4</identifier>
     <store_view_code>All,default</store_view_code>
     <is_active>1</is_active>
     <content_heading>Home Page Other</content_heading>

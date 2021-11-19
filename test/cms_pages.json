@@ -2,8 +2,8 @@
   "cms pages":[
     {
     "creation_time": "12/12/12 17:00",
-    "title": "Sample CMS page 1",
-    "identifier": "sample_cms_page_1",
+    "title": "Sample CMS page 5",
+    "identifier": "sample_cms_page_5",
     "store_view_code": "All,default",
     "is_active": 1,
     "content_heading": "Home Page Other",
@@ -20,8 +20,8 @@
   },
   {
     "creation_time": "12/12/12 17:00",
-    "title": "Sample CMS page 2",
-    "identifier": "sample_cms_page_2",
+    "title": "Sample CMS page 6",
+    "identifier": "sample_cms_page_6",
     "store_view_code": "All,default",
     "is_active": 1,
     "content_heading": "Home Page Other",
