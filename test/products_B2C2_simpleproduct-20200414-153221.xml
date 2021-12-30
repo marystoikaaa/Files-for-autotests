@@ -1,0 +1,815 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<timezone>
+<simpleproduct>
+<set><![CDATA[Default]]></set>
+<sku><![CDATA[4051905803735]]></sku>
+<wscopes><![CDATA[global]]></wscopes>
+<enable><![CDATA[true]]></enable>
+<visibility><![CDATA[none]]></visibility>
+<price><![CDATA[89.95]]></price>
+<price_special><![CDATA[44.95]]></price_special>
+<price_special_from><![CDATA[]]></price_special_from>
+<price_special_to><![CDATA[]]></price_special_to>
+<taxclass><![CDATA[Vollbesteuerte Ware]]></taxclass>
+<attributes>
+<size>31</size>
+<color><![CDATA[ink shadow wash]]></color>
+<length><![CDATA[Länge 30]]></length>
+<name><![CDATA[HaroldTZ - 31/30]]></name>
+<short_description><![CDATA[Jeans - 31/30]]></short_description>
+<name><![CDATA[HaroldTZ]]></name>
+</attributes>
+<inventory>
+<qty><![CDATA[0]]></qty>
+<availability><![CDATA[yes]]></availability>
+<manage_stock><![CDATA[1]]></manage_stock>
+<min><![CDATA[1]]></min>
+<min_sale_qty><![CDATA[1]]></min_sale_qty>
+<max_sale_qty><![CDATA[9]]></max_sale_qty>
+</inventory>
+</simpleproduct>
+<simpleproduct>
+<set><![CDATA[Default]]></set>
+<sku><![CDATA[4051905803742]]></sku>
+<wscopes><![CDATA[global]]></wscopes>
+<enable><![CDATA[true]]></enable>
+<visibility><![CDATA[none]]></visibility>
+<price><![CDATA[89.95]]></price>
+<price_special><![CDATA[44.95]]></price_special>
+<price_special_from><![CDATA[]]></price_special_from>
+<price_special_to><![CDATA[]]></price_special_to>
+<taxclass><![CDATA[Vollbesteuerte Ware]]></taxclass>
+<attributes>
+<size>32</size>
+<color><![CDATA[ink shadow wash]]></color>
+<length><![CDATA[Länge 30]]></length>
+<name><![CDATA[HaroldTZ - 32/30]]></name>
+<short_description><![CDATA[Jeans - 32/30]]></short_description>
+<name><![CDATA[HaroldTZ]]></name>
+</attributes>
+<inventory>
+<qty><![CDATA[2]]></qty>
+<availability><![CDATA[yes]]></availability>
+<manage_stock><![CDATA[1]]></manage_stock>
+<min><![CDATA[1]]></min>
+<min_sale_qty><![CDATA[1]]></min_sale_qty>
+<max_sale_qty><![CDATA[9]]></max_sale_qty>
+</inventory>
+</simpleproduct>
+<simpleproduct>
+<set><![CDATA[Default]]></set>
+<sku><![CDATA[4051905803759]]></sku>
+<wscopes><![CDATA[global]]></wscopes>
+<enable><![CDATA[true]]></enable>
+<visibility><![CDATA[none]]></visibility>
+<price><![CDATA[89.95]]></price>
+<price_special><![CDATA[44.95]]></price_special>
+<price_special_from><![CDATA[]]></price_special_from>
+<price_special_to><![CDATA[]]></price_special_to>
+<taxclass><![CDATA[Vollbesteuerte Ware]]></taxclass>
+<attributes>
+<size>33</size>
+<color><![CDATA[ink shadow wash]]></color>
+<length><![CDATA[Länge 30]]></length>
+<name><![CDATA[HaroldTZ - 33/30]]></name>
+<short_description><![CDATA[Jeans - 33/30]]></short_description>
+<name><![CDATA[HaroldTZ]]></name>
+</attributes>
+<inventory>
+<qty><![CDATA[1]]></qty>
+<availability><![CDATA[yes]]></availability>
+<manage_stock><![CDATA[1]]></manage_stock>
+<min><![CDATA[1]]></min>
+<min_sale_qty><![CDATA[1]]></min_sale_qty>
+<max_sale_qty><![CDATA[9]]></max_sale_qty>
+</inventory>
+</simpleproduct>
+<simpleproduct>
+<set><![CDATA[Default]]></set>
+<sku><![CDATA[4051905803766]]></sku>
+<wscopes><![CDATA[global]]></wscopes>
+<enable><![CDATA[true]]></enable>
+<visibility><![CDATA[none]]></visibility>
+<price><![CDATA[89.95]]></price>
+<price_special><![CDATA[44.95]]></price_special>
+<price_special_from><![CDATA[]]></price_special_from>
+<price_special_to><![CDATA[]]></price_special_to>
+<taxclass><![CDATA[Vollbesteuerte Ware]]></taxclass>
+<attributes>
+<size>34</size>
+<color><![CDATA[ink shadow wash]]></color>
+<length><![CDATA[Länge 30]]></length>
+<name><![CDATA[HaroldTZ - 34/30]]></name>
+<short_description><![CDATA[Jeans - 34/30]]></short_description>
+<name><![CDATA[HaroldTZ]]></name>
+</attributes>
+<inventory>
+<qty><![CDATA[136]]></qty>
+<availability><![CDATA[yes]]></availability>
+<manage_stock><![CDATA[1]]></manage_stock>
+<min><![CDATA[1]]></min>
+<min_sale_qty><![CDATA[1]]></min_sale_qty>
+<max_sale_qty><![CDATA[9]]></max_sale_qty>
+</inventory>
+</simpleproduct>
+<simpleproduct>
+<set><![CDATA[Default]]></set>
+<sku><![CDATA[4051905803773]]></sku>
+<wscopes><![CDATA[global]]></wscopes>
+<enable><![CDATA[true]]></enable>
+<visibility><![CDATA[none]]></visibility>
+<price><![CDATA[89.95]]></price>
+<price_special><![CDATA[44.95]]></price_special>
+<price_special_from><![CDATA[]]></price_special_from>
+<price_special_to><![CDATA[]]></price_special_to>
+<taxclass><![CDATA[Vollbesteuerte Ware]]></taxclass>
+<attributes>
+<size>36</size>
+<color><![CDATA[ink shadow wash]]></color>
+<length><![CDATA[Länge 30]]></length>
+<name><![CDATA[HaroldTZ - 36/30]]></name>
+<short_description><![CDATA[Jeans - 36/30]]></short_description>
+<name><![CDATA[HaroldTZ]]></name>
+</attributes>
+<inventory>
+<qty><![CDATA[147]]></qty>
+<availability><![CDATA[yes]]></availability>
+<manage_stock><![CDATA[1]]></manage_stock>
+<min><![CDATA[1]]></min>
+<min_sale_qty><![CDATA[1]]></min_sale_qty>
+<max_sale_qty><![CDATA[9]]></max_sale_qty>
+</inventory>
+</simpleproduct>
+<simpleproduct>
+<set><![CDATA[Default]]></set>
+<sku><![CDATA[4051905803780]]></sku>
+<wscopes><![CDATA[global]]></wscopes>
+<enable><![CDATA[true]]></enable>
+<visibility><![CDATA[none]]></visibility>
+<price><![CDATA[89.95]]></price>
+<price_special><![CDATA[44.95]]></price_special>
+<price_special_from><![CDATA[]]></price_special_from>
+<price_special_to><![CDATA[]]></price_special_to>
+<taxclass><![CDATA[Vollbesteuerte Ware]]></taxclass>
+<attributes>
+<size>38</size>
+<color><![CDATA[ink shadow wash]]></color>
+<length><![CDATA[Länge 30]]></length>
+<name><![CDATA[HaroldTZ - 38/30]]></name>
+<short_description><![CDATA[Jeans - 38/30]]></short_description>
+<name><![CDATA[HaroldTZ]]></name>
+</attributes>
+<inventory>
+<qty><![CDATA[24]]></qty>
+<availability><![CDATA[yes]]></availability>
+<manage_stock><![CDATA[1]]></manage_stock>
+<min><![CDATA[1]]></min>
+<min_sale_qty><![CDATA[1]]></min_sale_qty>
+<max_sale_qty><![CDATA[9]]></max_sale_qty>
+</inventory>
+</simpleproduct>
+<simpleproduct>
+<set><![CDATA[Default]]></set>
+<sku><![CDATA[4051905793227]]></sku>
+<wscopes><![CDATA[global]]></wscopes>
+<enable><![CDATA[true]]></enable>
+<visibility><![CDATA[none]]></visibility>
+<price><![CDATA[89.95]]></price>
+<price_special><![CDATA[44.95]]></price_special>
+<price_special_from><![CDATA[]]></price_special_from>
+<price_special_to><![CDATA[]]></price_special_to>
+<taxclass><![CDATA[Vollbesteuerte Ware]]></taxclass>
+<attributes>
+<size>28</size>
+<color><![CDATA[ink shadow wash]]></color>
+<length><![CDATA[Länge 32]]></length>
+<name><![CDATA[HaroldTZ - 28/32]]></name>
+<short_description><![CDATA[Jeans - 28/32]]></short_description>
+<name><![CDATA[HaroldTZ]]></name>
+</attributes>
+<inventory>
+<qty><![CDATA[0]]></qty>
+<availability><![CDATA[yes]]></availability>
+<manage_stock><![CDATA[1]]></manage_stock>
+<min><![CDATA[1]]></min>
+<min_sale_qty><![CDATA[1]]></min_sale_qty>
+<max_sale_qty><![CDATA[9]]></max_sale_qty>
+</inventory>
+</simpleproduct>
+<simpleproduct>
+<set><![CDATA[Default]]></set>
+<sku><![CDATA[4051905793234]]></sku>
+<wscopes><![CDATA[global]]></wscopes>
+<enable><![CDATA[true]]></enable>
+<visibility><![CDATA[none]]></visibility>
+<price><![CDATA[89.95]]></price>
+<price_special><![CDATA[44.95]]></price_special>
+<price_special_from><![CDATA[]]></price_special_from>
+<price_special_to><![CDATA[]]></price_special_to>
+<taxclass><![CDATA[Vollbesteuerte Ware]]></taxclass>
+<attributes>
+<size>29</size>
+<color><![CDATA[ink shadow wash]]></color>
+<length><![CDATA[Länge 32]]></length>
+<name><![CDATA[HaroldTZ - 29/32]]></name>
+<short_description><![CDATA[Jeans - 29/32]]></short_description>
+<name><![CDATA[HaroldTZ]]></name>
+</attributes>
+<inventory>
+<qty><![CDATA[159]]></qty>
+<availability><![CDATA[yes]]></availability>
+<manage_stock><![CDATA[1]]></manage_stock>
+<min><![CDATA[1]]></min>
+<min_sale_qty><![CDATA[1]]></min_sale_qty>
+<max_sale_qty><![CDATA[9]]></max_sale_qty>
+</inventory>
+</simpleproduct>
+<simpleproduct>
+<set><![CDATA[Default]]></set>
+<sku><![CDATA[4051905793241]]></sku>
+<wscopes><![CDATA[global]]></wscopes>
+<enable><![CDATA[true]]></enable>
+<visibility><![CDATA[none]]></visibility>
+<price><![CDATA[89.95]]></price>
+<price_special><![CDATA[44.95]]></price_special>
+<price_special_from><![CDATA[]]></price_special_from>
+<price_special_to><![CDATA[]]></price_special_to>
+<taxclass><![CDATA[Vollbesteuerte Ware]]></taxclass>
+<attributes>
+<size>30</size>
+<color><![CDATA[ink shadow wash]]></color>
+<length><![CDATA[Länge 32]]></length>
+<name><![CDATA[HaroldTZ - 30/32]]></name>
+<short_description><![CDATA[Jeans - 30/32]]></short_description>
+<name><![CDATA[HaroldTZ]]></name>
+</attributes>
+<inventory>
+<qty><![CDATA[176]]></qty>
+<availability><![CDATA[yes]]></availability>
+<manage_stock><![CDATA[1]]></manage_stock>
+<min><![CDATA[1]]></min>
+<min_sale_qty><![CDATA[1]]></min_sale_qty>
+<max_sale_qty><![CDATA[9]]></max_sale_qty>
+</inventory>
+</simpleproduct>
+<simpleproduct>
+<set><![CDATA[Default]]></set>
+<sku><![CDATA[4051905793258]]></sku>
+<wscopes><![CDATA[global]]></wscopes>
+<enable><![CDATA[true]]></enable>
+<visibility><![CDATA[none]]></visibility>
+<price><![CDATA[89.95]]></price>
+<price_special><![CDATA[44.95]]></price_special>
+<price_special_from><![CDATA[]]></price_special_from>
+<price_special_to><![CDATA[]]></price_special_to>
+<taxclass><![CDATA[Vollbesteuerte Ware]]></taxclass>
+<attributes>
+<size>31</size>
+<color><![CDATA[ink shadow wash]]></color>
+<length><![CDATA[Länge 32]]></length>
+<name><![CDATA[HaroldTZ - 31/32]]></name>
+<short_description><![CDATA[Jeans - 31/32]]></short_description>
+<name><![CDATA[HaroldTZ]]></name>
+</attributes>
+<inventory>
+<qty><![CDATA[0]]></qty>
+<availability><![CDATA[yes]]></availability>
+<manage_stock><![CDATA[1]]></manage_stock>
+<min><![CDATA[1]]></min>
+<min_sale_qty><![CDATA[1]]></min_sale_qty>
+<max_sale_qty><![CDATA[9]]></max_sale_qty>
+</inventory>
+</simpleproduct>
+<simpleproduct>
+<set><![CDATA[Default]]></set>
+<sku><![CDATA[4051905793265]]></sku>
+<wscopes><![CDATA[global]]></wscopes>
+<enable><![CDATA[true]]></enable>
+<visibility><![CDATA[none]]></visibility>
+<price><![CDATA[89.95]]></price>
+<price_special><![CDATA[44.95]]></price_special>
+<price_special_from><![CDATA[]]></price_special_from>
+<price_special_to><![CDATA[]]></price_special_to>
+<taxclass><![CDATA[Vollbesteuerte Ware]]></taxclass>
+<attributes>
+<size>32</size>
+<color><![CDATA[ink shadow wash]]></color>
+<length><![CDATA[Länge 32]]></length>
+<name><![CDATA[HaroldTZ - 32/32]]></name>
+<short_description><![CDATA[Jeans - 32/32]]></short_description>
+<name><![CDATA[HaroldTZ]]></name>
+</attributes>
+<inventory>
+<qty><![CDATA[0]]></qty>
+<availability><![CDATA[yes]]></availability>
+<manage_stock><![CDATA[1]]></manage_stock>
+<min><![CDATA[1]]></min>
+<min_sale_qty><![CDATA[1]]></min_sale_qty>
+<max_sale_qty><![CDATA[9]]></max_sale_qty>
+</inventory>
+</simpleproduct>
+<simpleproduct>
+<set><![CDATA[Default]]></set>
+<sku><![CDATA[4051905793272]]></sku>
+<wscopes><![CDATA[global]]></wscopes>
+<enable><![CDATA[true]]></enable>
+<visibility><![CDATA[none]]></visibility>
+<price><![CDATA[89.95]]></price>
+<price_special><![CDATA[44.95]]></price_special>
+<price_special_from><![CDATA[]]></price_special_from>
+<price_special_to><![CDATA[]]></price_special_to>
+<taxclass><![CDATA[Vollbesteuerte Ware]]></taxclass>
+<attributes>
+<size>33</size>
+<color><![CDATA[ink shadow wash]]></color>
+<length><![CDATA[Länge 32]]></length>
+<name><![CDATA[HaroldTZ - 33/32]]></name>
+<short_description><![CDATA[Jeans - 33/32]]></short_description>
+<name><![CDATA[HaroldTZ]]></name>
+</attributes>
+<inventory>
+<qty><![CDATA[0]]></qty>
+<availability><![CDATA[yes]]></availability>
+<manage_stock><![CDATA[1]]></manage_stock>
+<min><![CDATA[1]]></min>
+<min_sale_qty><![CDATA[1]]></min_sale_qty>
+<max_sale_qty><![CDATA[9]]></max_sale_qty>
+</inventory>
+</simpleproduct>
+<simpleproduct>
+<set><![CDATA[Default]]></set>
+<sku><![CDATA[4051905793289]]></sku>
+<wscopes><![CDATA[global]]></wscopes>
+<enable><![CDATA[true]]></enable>
+<visibility><![CDATA[none]]></visibility>
+<price><![CDATA[89.95]]></price>
+<price_special><![CDATA[44.95]]></price_special>
+<price_special_from><![CDATA[]]></price_special_from>
+<price_special_to><![CDATA[]]></price_special_to>
+<taxclass><![CDATA[Vollbesteuerte Ware]]></taxclass>
+<attributes>
+<size>34</size>
+<color><![CDATA[ink shadow wash]]></color>
+<length><![CDATA[Länge 32]]></length>
+<name><![CDATA[HaroldTZ - 34/32]]></name>
+<short_description><![CDATA[Jeans - 34/32]]></short_description>
+<name><![CDATA[HaroldTZ]]></name>
+</attributes>
+<inventory>
+<qty><![CDATA[0]]></qty>
+<availability><![CDATA[yes]]></availability>
+<manage_stock><![CDATA[1]]></manage_stock>
+<min><![CDATA[1]]></min>
+<min_sale_qty><![CDATA[1]]></min_sale_qty>
+<max_sale_qty><![CDATA[9]]></max_sale_qty>
+</inventory>
+</simpleproduct>
+<simpleproduct>
+<set><![CDATA[Default]]></set>
+<sku><![CDATA[4051905793296]]></sku>
+<wscopes><![CDATA[global]]></wscopes>
+<enable><![CDATA[true]]></enable>
+<visibility><![CDATA[none]]></visibility>
+<price><![CDATA[89.95]]></price>
+<price_special><![CDATA[44.95]]></price_special>
+<price_special_from><![CDATA[]]></price_special_from>
+<price_special_to><![CDATA[]]></price_special_to>
+<taxclass><![CDATA[Vollbesteuerte Ware]]></taxclass>
+<attributes>
+<size>36</size>
+<color><![CDATA[ink shadow wash]]></color>
+<length><![CDATA[Länge 32]]></length>
+<name><![CDATA[HaroldTZ - 36/32]]></name>
+<short_description><![CDATA[Jeans - 36/32]]></short_description>
+<name><![CDATA[HaroldTZ]]></name>
+</attributes>
+<inventory>
+<qty><![CDATA[0]]></qty>
+<availability><![CDATA[yes]]></availability>
+<manage_stock><![CDATA[1]]></manage_stock>
+<min><![CDATA[1]]></min>
+<min_sale_qty><![CDATA[1]]></min_sale_qty>
+<max_sale_qty><![CDATA[9]]></max_sale_qty>
+</inventory>
+</simpleproduct>
+<simpleproduct>
+<set><![CDATA[Default]]></set>
+<sku><![CDATA[4051905793302]]></sku>
+<wscopes><![CDATA[global]]></wscopes>
+<enable><![CDATA[true]]></enable>
+<visibility><![CDATA[none]]></visibility>
+<price><![CDATA[89.95]]></price>
+<price_special><![CDATA[44.95]]></price_special>
+<price_special_from><![CDATA[]]></price_special_from>
+<price_special_to><![CDATA[]]></price_special_to>
+<taxclass><![CDATA[Vollbesteuerte Ware]]></taxclass>
+<attributes>
+<size>38</size>
+<color><![CDATA[ink shadow wash]]></color>
+<length><![CDATA[Länge 32]]></length>
+<name><![CDATA[HaroldTZ - 38/32]]></name>
+<short_description><![CDATA[Jeans - 38/32]]></short_description>
+<name><![CDATA[HaroldTZ]]></name>
+</attributes>
+<inventory>
+<qty><![CDATA[19]]></qty>
+<availability><![CDATA[yes]]></availability>
+<manage_stock><![CDATA[1]]></manage_stock>
+<min><![CDATA[1]]></min>
+<min_sale_qty><![CDATA[1]]></min_sale_qty>
+<max_sale_qty><![CDATA[9]]></max_sale_qty>
+</inventory>
+</simpleproduct>
+<simpleproduct>
+<set><![CDATA[Default]]></set>
+<sku><![CDATA[4051905793319]]></sku>
+<wscopes><![CDATA[global]]></wscopes>
+<enable><![CDATA[true]]></enable>
+<visibility><![CDATA[none]]></visibility>
+<price><![CDATA[89.95]]></price>
+<price_special><![CDATA[44.95]]></price_special>
+<price_special_from><![CDATA[]]></price_special_from>
+<price_special_to><![CDATA[]]></price_special_to>
+<taxclass><![CDATA[Vollbesteuerte Ware]]></taxclass>
+<attributes>
+<size>40</size>
+<color><![CDATA[ink shadow wash]]></color>
+<length><![CDATA[Länge 32]]></length>
+<name><![CDATA[HaroldTZ - 40/32]]></name>
+<short_description><![CDATA[Jeans - 40/32]]></short_description>
+<name><![CDATA[HaroldTZ]]></name>
+</attributes>
+<inventory>
+<qty><![CDATA[0]]></qty>
+<availability><![CDATA[yes]]></availability>
+<manage_stock><![CDATA[1]]></manage_stock>
+<min><![CDATA[1]]></min>
+<min_sale_qty><![CDATA[1]]></min_sale_qty>
+<max_sale_qty><![CDATA[9]]></max_sale_qty>
+</inventory>
+</simpleproduct>
+<simpleproduct>
+<set><![CDATA[Default]]></set>
+<sku><![CDATA[4051905793326]]></sku>
+<wscopes><![CDATA[global]]></wscopes>
+<enable><![CDATA[true]]></enable>
+<visibility><![CDATA[none]]></visibility>
+<price><![CDATA[89.95]]></price>
+<price_special><![CDATA[44.95]]></price_special>
+<price_special_from><![CDATA[]]></price_special_from>
+<price_special_to><![CDATA[]]></price_special_to>
+<taxclass><![CDATA[Vollbesteuerte Ware]]></taxclass>
+<attributes>
+<size>30</size>
+<color><![CDATA[ink shadow wash]]></color>
+<length><![CDATA[Länge 34]]></length>
+<name><![CDATA[HaroldTZ - 30/34]]></name>
+<short_description><![CDATA[Jeans - 30/34]]></short_description>
+<name><![CDATA[HaroldTZ]]></name>
+</attributes>
+<inventory>
+<qty><![CDATA[0]]></qty>
+<availability><![CDATA[yes]]></availability>
+<manage_stock><![CDATA[1]]></manage_stock>
+<min><![CDATA[1]]></min>
+<min_sale_qty><![CDATA[1]]></min_sale_qty>
+<max_sale_qty><![CDATA[9]]></max_sale_qty>
+</inventory>
+</simpleproduct>
+<simpleproduct>
+<set><![CDATA[Default]]></set>
+<sku><![CDATA[4051905793333]]></sku>
+<wscopes><![CDATA[global]]></wscopes>
+<enable><![CDATA[true]]></enable>
+<visibility><![CDATA[none]]></visibility>
+<price><![CDATA[89.95]]></price>
+<price_special><![CDATA[44.95]]></price_special>
+<price_special_from><![CDATA[]]></price_special_from>
+<price_special_to><![CDATA[]]></price_special_to>
+<taxclass><![CDATA[Vollbesteuerte Ware]]></taxclass>
+<attributes>
+<size>31</size>
+<color><![CDATA[ink shadow wash]]></color>
+<length><![CDATA[Länge 34]]></length>
+<name><![CDATA[HaroldTZ - 31/34]]></name>
+<short_description><![CDATA[Jeans - 31/34]]></short_description>
+<name><![CDATA[HaroldTZ]]></name>
+</attributes>
+<inventory>
+<qty><![CDATA[0]]></qty>
+<availability><![CDATA[yes]]></availability>
+<manage_stock><![CDATA[1]]></manage_stock>
+<min><![CDATA[1]]></min>
+<min_sale_qty><![CDATA[1]]></min_sale_qty>
+<max_sale_qty><![CDATA[9]]></max_sale_qty>
+</inventory>
+</simpleproduct>
+<simpleproduct>
+<set><![CDATA[Default]]></set>
+<sku><![CDATA[4051905793340]]></sku>
+<wscopes><![CDATA[global]]></wscopes>
+<enable><![CDATA[true]]></enable>
+<visibility><![CDATA[none]]></visibility>
+<price><![CDATA[89.95]]></price>
+<price_special><![CDATA[44.95]]></price_special>
+<price_special_from><![CDATA[]]></price_special_from>
+<price_special_to><![CDATA[]]></price_special_to>
+<taxclass><![CDATA[Vollbesteuerte Ware]]></taxclass>
+<attributes>
+<size>32</size>
+<color><![CDATA[ink shadow wash]]></color>
+<length><![CDATA[Länge 34]]></length>
+<name><![CDATA[HaroldTZ - 32/34]]></name>
+<short_description><![CDATA[Jeans - 32/34]]></short_description>
+<name><![CDATA[HaroldTZ]]></name>
+</attributes>
+<inventory>
+<qty><![CDATA[0]]></qty>
+<availability><![CDATA[yes]]></availability>
+<manage_stock><![CDATA[1]]></manage_stock>
+<min><![CDATA[1]]></min>
+<min_sale_qty><![CDATA[1]]></min_sale_qty>
+<max_sale_qty><![CDATA[9]]></max_sale_qty>
+</inventory>
+</simpleproduct>
+<simpleproduct>
+<set><![CDATA[Default]]></set>
+<sku><![CDATA[4051905793357]]></sku>
+<wscopes><![CDATA[global]]></wscopes>
+<enable><![CDATA[true]]></enable>
+<visibility><![CDATA[none]]></visibility>
+<price><![CDATA[89.95]]></price>
+<price_special><![CDATA[44.95]]></price_special>
+<price_special_from><![CDATA[]]></price_special_from>
+<price_special_to><![CDATA[]]></price_special_to>
+<taxclass><![CDATA[Vollbesteuerte Ware]]></taxclass>
+<attributes>
+<size>33</size>
+<color><![CDATA[ink shadow wash]]></color>
+<length><![CDATA[Länge 34]]></length>
+<name><![CDATA[HaroldTZ - 33/34]]></name>
+<short_description><![CDATA[Jeans - 33/34]]></short_description>
+<name><![CDATA[HaroldTZ]]></name>
+</attributes>
+<inventory>
+<qty><![CDATA[0]]></qty>
+<availability><![CDATA[yes]]></availability>
+<manage_stock><![CDATA[1]]></manage_stock>
+<min><![CDATA[1]]></min>
+<min_sale_qty><![CDATA[1]]></min_sale_qty>
+<max_sale_qty><![CDATA[9]]></max_sale_qty>
+</inventory>
+</simpleproduct>
+<simpleproduct>
+<set><![CDATA[Default]]></set>
+<sku><![CDATA[4051905793364]]></sku>
+<wscopes><![CDATA[global]]></wscopes>
+<enable><![CDATA[true]]></enable>
+<visibility><![CDATA[none]]></visibility>
+<price><![CDATA[89.95]]></price>
+<price_special><![CDATA[44.95]]></price_special>
+<price_special_from><![CDATA[]]></price_special_from>
+<price_special_to><![CDATA[]]></price_special_to>
+<taxclass><![CDATA[Vollbesteuerte Ware]]></taxclass>
+<attributes>
+<size>34</size>
+<color><![CDATA[ink shadow wash]]></color>
+<length><![CDATA[Länge 34]]></length>
+<name><![CDATA[HaroldTZ - 34/34]]></name>
+<short_description><![CDATA[Jeans - 34/34]]></short_description>
+<name><![CDATA[HaroldTZ]]></name>
+</attributes>
+<inventory>
+<qty><![CDATA[0]]></qty>
+<availability><![CDATA[yes]]></availability>
+<manage_stock><![CDATA[1]]></manage_stock>
+<min><![CDATA[1]]></min>
+<min_sale_qty><![CDATA[1]]></min_sale_qty>
+<max_sale_qty><![CDATA[9]]></max_sale_qty>
+</inventory>
+</simpleproduct>
+<simpleproduct>
+<set><![CDATA[Default]]></set>
+<sku><![CDATA[4051905793371]]></sku>
+<wscopes><![CDATA[global]]></wscopes>
+<enable><![CDATA[true]]></enable>
+<visibility><![CDATA[none]]></visibility>
+<price><![CDATA[89.95]]></price>
+<price_special><![CDATA[44.95]]></price_special>
+<price_special_from><![CDATA[]]></price_special_from>
+<price_special_to><![CDATA[]]></price_special_to>
+<taxclass><![CDATA[Vollbesteuerte Ware]]></taxclass>
+<attributes>
+<size>36</size>
+<color><![CDATA[ink shadow wash]]></color>
+<length><![CDATA[Länge 34]]></length>
+<name><![CDATA[HaroldTZ - 36/34]]></name>
+<short_description><![CDATA[Jeans - 36/34]]></short_description>
+<name><![CDATA[HaroldTZ]]></name>
+</attributes>
+<inventory>
+<qty><![CDATA[0]]></qty>
+<availability><![CDATA[yes]]></availability>
+<manage_stock><![CDATA[1]]></manage_stock>
+<min><![CDATA[1]]></min>
+<min_sale_qty><![CDATA[1]]></min_sale_qty>
+<max_sale_qty><![CDATA[9]]></max_sale_qty>
+</inventory>
+</simpleproduct>
+<simpleproduct>
+<set><![CDATA[Default]]></set>
+<sku><![CDATA[4051905793388]]></sku>
+<wscopes><![CDATA[global]]></wscopes>
+<enable><![CDATA[true]]></enable>
+<visibility><![CDATA[none]]></visibility>
+<price><![CDATA[89.95]]></price>
+<price_special><![CDATA[44.95]]></price_special>
+<price_special_from><![CDATA[]]></price_special_from>
+<price_special_to><![CDATA[]]></price_special_to>
+<taxclass><![CDATA[Vollbesteuerte Ware]]></taxclass>
+<attributes>
+<size>38</size>
+<color><![CDATA[ink shadow wash]]></color>
+<length><![CDATA[Länge 34]]></length>
+<name><![CDATA[HaroldTZ - 38/34]]></name>
+<short_description><![CDATA[Jeans - 38/34]]></short_description>
+<name><![CDATA[HaroldTZ]]></name>
+</attributes>
+<inventory>
+<qty><![CDATA[0]]></qty>
+<availability><![CDATA[yes]]></availability>
+<manage_stock><![CDATA[1]]></manage_stock>
+<min><![CDATA[1]]></min>
+<min_sale_qty><![CDATA[1]]></min_sale_qty>
+<max_sale_qty><![CDATA[9]]></max_sale_qty>
+</inventory>
+</simpleproduct>
+<simpleproduct>
+<set><![CDATA[Default]]></set>
+<sku><![CDATA[4051905793395]]></sku>
+<wscopes><![CDATA[global]]></wscopes>
+<enable><![CDATA[true]]></enable>
+<visibility><![CDATA[none]]></visibility>
+<price><![CDATA[89.95]]></price>
+<price_special><![CDATA[44.95]]></price_special>
+<price_special_from><![CDATA[]]></price_special_from>
+<price_special_to><![CDATA[]]></price_special_to>
+<taxclass><![CDATA[Vollbesteuerte Ware]]></taxclass>
+<attributes>
+<size>40</size>
+<color><![CDATA[ink shadow wash]]></color>
+<length><![CDATA[Länge 34]]></length>
+<name><![CDATA[HaroldTZ - 40/34]]></name>
+<short_description><![CDATA[Jeans - 40/34]]></short_description>
+<name><![CDATA[HaroldTZ]]></name>
+</attributes>
+<inventory>
+<qty><![CDATA[0]]></qty>
+<availability><![CDATA[yes]]></availability>
+<manage_stock><![CDATA[1]]></manage_stock>
+<min><![CDATA[1]]></min>
+<min_sale_qty><![CDATA[1]]></min_sale_qty>
+<max_sale_qty><![CDATA[9]]></max_sale_qty>
+</inventory>
+</simpleproduct>
+<simpleproduct>
+<set><![CDATA[Default]]></set>
+<sku><![CDATA[4051905803797]]></sku>
+<wscopes><![CDATA[global]]></wscopes>
+<enable><![CDATA[true]]></enable>
+<visibility><![CDATA[none]]></visibility>
+<price><![CDATA[89.95]]></price>
+<price_special><![CDATA[44.95]]></price_special>
+<price_special_from><![CDATA[]]></price_special_from>
+<price_special_to><![CDATA[]]></price_special_to>
+<taxclass><![CDATA[Vollbesteuerte Ware]]></taxclass>
+<attributes>
+<size>31</size>
+<color><![CDATA[ink shadow wash]]></color>
+<length><![CDATA[Länge 36]]></length>
+<name><![CDATA[HaroldTZ - 31/36]]></name>
+<short_description><![CDATA[Jeans - 31/36]]></short_description>
+<name><![CDATA[HaroldTZ]]></name>
+</attributes>
+<inventory>
+<qty><![CDATA[14]]></qty>
+<availability><![CDATA[yes]]></availability>
+<manage_stock><![CDATA[1]]></manage_stock>
+<min><![CDATA[1]]></min>
+<min_sale_qty><![CDATA[1]]></min_sale_qty>
+<max_sale_qty><![CDATA[9]]></max_sale_qty>
+</inventory>
+</simpleproduct>
+<simpleproduct>
+<set><![CDATA[Default]]></set>
+<sku><![CDATA[4051905803803]]></sku>
+<wscopes><![CDATA[global]]></wscopes>
+<enable><![CDATA[true]]></enable>
+<visibility><![CDATA[none]]></visibility>
+<price><![CDATA[89.95]]></price>
+<price_special><![CDATA[44.95]]></price_special>
+<price_special_from><![CDATA[]]></price_special_from>
+<price_special_to><![CDATA[]]></price_special_to>
+<taxclass><![CDATA[Vollbesteuerte Ware]]></taxclass>
+<attributes>
+<size>32</size>
+<color><![CDATA[ink shadow wash]]></color>
+<length><![CDATA[Länge 36]]></length>
+<name><![CDATA[HaroldTZ - 32/36]]></name>
+<short_description><![CDATA[Jeans - 32/36]]></short_description>
+<name><![CDATA[HaroldTZ]]></name>
+</attributes>
+<inventory>
+<qty><![CDATA[126]]></qty>
+<availability><![CDATA[yes]]></availability>
+<manage_stock><![CDATA[1]]></manage_stock>
+<min><![CDATA[1]]></min>
+<min_sale_qty><![CDATA[1]]></min_sale_qty>
+<max_sale_qty><![CDATA[9]]></max_sale_qty>
+</inventory>
+</simpleproduct>
+<simpleproduct>
+<set><![CDATA[Default]]></set>
+<sku><![CDATA[4051905803810]]></sku>
+<wscopes><![CDATA[global]]></wscopes>
+<enable><![CDATA[true]]></enable>
+<visibility><![CDATA[none]]></visibility>
+<price><![CDATA[89.95]]></price>
+<price_special><![CDATA[44.95]]></price_special>
+<price_special_from><![CDATA[]]></price_special_from>
+<price_special_to><![CDATA[]]></price_special_to>
+<taxclass><![CDATA[Vollbesteuerte Ware]]></taxclass>
+<attributes>
+<size>33</size>
+<color><![CDATA[ink shadow wash]]></color>
+<length><![CDATA[Länge 36]]></length>
+<name><![CDATA[HaroldTZ - 33/36]]></name>
+<short_description><![CDATA[Jeans - 33/36]]></short_description>
+<name><![CDATA[HaroldTZ]]></name>
+</attributes>
+<inventory>
+<qty><![CDATA[1]]></qty>
+<availability><![CDATA[yes]]></availability>
+<manage_stock><![CDATA[1]]></manage_stock>
+<min><![CDATA[1]]></min>
+<min_sale_qty><![CDATA[1]]></min_sale_qty>
+<max_sale_qty><![CDATA[9]]></max_sale_qty>
+</inventory>
+</simpleproduct>
+<simpleproduct>
+<set><![CDATA[Default]]></set>
+<sku><![CDATA[4051905803827]]></sku>
+<wscopes><![CDATA[global]]></wscopes>
+<enable><![CDATA[true]]></enable>
+<visibility><![CDATA[none]]></visibility>
+<price><![CDATA[89.95]]></price>
+<price_special><![CDATA[44.95]]></price_special>
+<price_special_from><![CDATA[]]></price_special_from>
+<price_special_to><![CDATA[]]></price_special_to>
+<taxclass><![CDATA[Vollbesteuerte Ware]]></taxclass>
+<attributes>
+<size>34</size>
+<color><![CDATA[ink shadow wash]]></color>
+<length><![CDATA[Länge 36]]></length>
+<name><![CDATA[HaroldTZ - 34/36]]></name>
+<short_description><![CDATA[Jeans - 34/36]]></short_description>
+<name><![CDATA[HaroldTZ]]></name>
+</attributes>
+<inventory>
+<qty><![CDATA[137]]></qty>
+<availability><![CDATA[yes]]></availability>
+<manage_stock><![CDATA[1]]></manage_stock>
+<min><![CDATA[1]]></min>
+<min_sale_qty><![CDATA[1]]></min_sale_qty>
+<max_sale_qty><![CDATA[9]]></max_sale_qty>
+</inventory>
+</simpleproduct>
+<simpleproduct>
+<set><![CDATA[Default]]></set>
+<sku><![CDATA[4051905803834]]></sku>
+<wscopes><![CDATA[global]]></wscopes>
+<enable><![CDATA[true]]></enable>
+<visibility><![CDATA[none]]></visibility>
+<price><![CDATA[89.95]]></price>
+<price_special><![CDATA[44.95]]></price_special>
+<price_special_from><![CDATA[]]></price_special_from>
+<price_special_to><![CDATA[]]></price_special_to>
+<taxclass><![CDATA[Vollbesteuerte Ware]]></taxclass>
+<attributes>
+<size>36</size>
+<color><![CDATA[ink shadow wash]]></color>
+<length><![CDATA[Länge 36]]></length>
+<name><![CDATA[HaroldTZ - 36/36]]></name>
+<short_description><![CDATA[Jeans - 36/36]]></short_description>
+<name><![CDATA[HaroldTZ]]></name>
+</attributes>
+<inventory>
+<qty><![CDATA[80]]></qty>
+<availability><![CDATA[yes]]></availability>
+<manage_stock><![CDATA[1]]></manage_stock>
+<min><![CDATA[1]]></min>
+<min_sale_qty><![CDATA[1]]></min_sale_qty>
+<max_sale_qty><![CDATA[9]]></max_sale_qty>
+</inventory>
+</simpleproduct>
+</timezone>
