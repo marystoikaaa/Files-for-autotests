@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ElementName_1>
+  <ElementName_2>
+    <Items>
+      <item>
+        <sku>TST-Dwnl-2</sku>
+        <group></group>
+        <tier_prices></tier_prices>
+        <create_attribute>
+    		<attribute_code>size</attribute_code>
+    		<frontend_input>select</frontend_input>
+    		<is_required>0</is_required>
+    		<is_global>1</is_global>
+    		<default_value_text>XS</default_value_text>
+    		<is_unique>0</is_unique>
+    		<frontend_class>validate-alphanum</frontend_class>
+    		<is_used_in_grid>1</is_used_in_grid>
+    		<is_filterable_in_grid>1</is_filterable_in_grid>
+    		<is_searchable>1</is_searchable>
+    		<search_weight>3</search_weight>
+    		<is_visible_in_advanced_search>0</is_visible_in_advanced_search>
+    		<is_comparable>0</is_comparable>
+    		<is_filterable>1</is_filterable>
+    		<is_filterable_in_search>1</is_filterable_in_search>
+    		<position>2</position>
+    		<is_used_for_promo_rules>0</is_used_for_promo_rules>
+    		<is_html_allowed_on_front>1</is_html_allowed_on_front>
+    		<is_visible_on_front>1</is_visible_on_front>
+    		<used_in_product_listing>0</used_in_product_listing>
+    		<used_for_sort_by>1</used_for_sort_by>
+    		<frontend_label_0>Size</frontend_label_0>
+    		<frontend_label_1>Size</frontend_label_1>
+    		<attribute_set>Default</attribute_set>
+    	</create_attribute>
+        <store_view_code>default</store_view_code>
+        <attribute_set_code>Default</attribute_set_code>
+        <product_type>downloadable</product_type>
+        <categories>Default Category/Shop</categories>
+        <product_websites>base</product_websites>
+        <name>Test Downloadable product</name>
+        <description>&lt;p&gt;This is a test Downloadable product named Test Downloadable product with SKU: TST-Dwnl-2.&lt;/p&gt;
+    &lt;p&gt;That has been imported using Firebear Studio Imporved Import and Export extension: https://firebearstudio.com/the-improved-import.html&lt;/p&gt;</description>
+        <short_description>&lt;p&gt;This is a test Downloadable product named Test Downloadable product with SKU: TST-Dwnl-2.&lt;/p&gt;</short_description>
+        <weight></weight>
+        <product_online>2</product_online>
+        <tax_class_name>Taxable Goods</tax_class_name>
+        <visibility>Catalog, Search</visibility>
+        <price>123</price>
+        <special_price>100</special_price>
+        <special_price_from_date>2017-01-01 12:12:12</special_price_from_date>
+        <special_price_to_date>2017-02-02 12:12:12</special_price_to_date>
+        <url_key>TST-Dwnl-2</url_key>
+        <meta_title>Test meta title</meta_title>
+        <meta_keywords>meta1,meta2,meta3</meta_keywords>
+        <meta_description>Meta description goes here.</meta_description>
+        <base_image>https://firebearstudio.com/blog/wp-content/uploads/2017/02/improved_mport_export_magento_2_.png</base_image>
+        <base_image_label>Base image &quot;Alt Text&quot;</base_image_label>
+        <small_image>https://firebearstudio.com/media/logos/default/logo.png</small_image>
+        <small_image_label>Small image &quot;Alt Text&quot;</small_image_label>
+        <thumbnail_image>https://firebearstudio.com/media/logos/default/logo.png</thumbnail_image>
+        <thumbnail_image_label>Thumbnail image &quot;Alt Text&quot;</thumbnail_image_label>
+        <swatch_image>https://firebearstudio.com/media/logos/default/logo.png</swatch_image>
+        <swatch_image_label>Swatch image &quot;Alt Text&quot;</swatch_image_label>
+        <created_at>2017-01-01 12:12:12</created_at>
+        <updated_at>2017-02-02 12:12:12</updated_at>
+        <new_from_date>2017-01-01 12:12:12</new_from_date>
+        <new_to_date>2017-02-02 12:12:12</new_to_date>
+        <display_product_options_in>Block after Info Column</display_product_options_in>
+        <map_price>10</map_price>
+        <msrp_price>10</msrp_price>
+        <map_enabled></map_enabled>
+        <gift_message_available></gift_message_available>
+        <custom_design></custom_design>
+        <custom_design_from>2017-01-01 12:12:12</custom_design_from>
+        <custom_design_to>2017-02-02 12:12:12</custom_design_to>
+        <custom_layout_update></custom_layout_update>
+        <page_layout></page_layout>
+        <product_options_container>Block after Info Column</product_options_container>
+        <msrp_display_actual_price_type>Use config</msrp_display_actual_price_type>
+        <country_of_manufacture>Finland</country_of_manufacture>
+        <additional_attributes>color=Black,size=S</additional_attributes>
+        <qty>123</qty>
+        <out_of_stock_qty>0</out_of_stock_qty>
+        <use_config_min_qty>1</use_config_min_qty>
+        <is_qty_decimal>0</is_qty_decimal>
+        <allow_backorders>0</allow_backorders>
+        <use_config_backorders>1</use_config_backorders>
+        <min_cart_qty>1</min_cart_qty>
+        <use_config_min_sale_qty>0</use_config_min_sale_qty>
+        <max_cart_qty>10000</max_cart_qty>
+        <use_config_max_sale_qty>1</use_config_max_sale_qty>
+        <is_in_stock>1</is_in_stock>
+        <notify_on_stock_below>1</notify_on_stock_below>
+        <use_config_notify_stock_qty>1</use_config_notify_stock_qty>
+        <manage_stock>0</manage_stock>
+        <use_config_manage_stock>1</use_config_manage_stock>
+        <use_config_qty_increments>1</use_config_qty_increments>
+        <qty_increments>0</qty_increments>
+        <use_config_enable_qty_inc>1</use_config_enable_qty_inc>
+        <enable_qty_increments>0</enable_qty_increments>
+        <is_decimal_divided>0</is_decimal_divided>
+        <website_id>1</website_id>
+        <deferred_stock_update>0</deferred_stock_update>
+        <use_config_deferred_stock_update>1</use_config_deferred_stock_update>
+        <related_skus>TST-Dwnl-1</related_skus>
+        <crosssell_skus>TST-Dwnl-1</crosssell_skus>
+        <upsell_skus>TST-Dwnl-1</upsell_skus>
+        <additional_images>https://firebearstudio.com/media/logos/default/logo.png</additional_images>
+        <additional_image_labels>Additional image &quot;Alt Text&quot;</additional_image_labels>
+        <hide_from_product_page></hide_from_product_page>
+        <custom_options></custom_options>
+        <bundle_price_type></bundle_price_type>
+        <bundle_sku_type></bundle_sku_type>
+        <bundle_price_view></bundle_price_view>
+        <bundle_weight_type></bundle_weight_type>
+        <bundle_values></bundle_values>
+        <bundle_shipment_type></bundle_shipment_type>
+        <configurable_variations></configurable_variations>
+        <configurable_variation_labels></configurable_variation_labels>
+        <associated_skus></associated_skus>
+        <downloadable_links>price=89,file=https://firebearstudio.com/media/logos/default/logo.png,downloads=10,group_title=Firebear links,title=Firebear title</downloadable_links>
+      </item>
+    </Items>
+  </ElementName_2>
+</ElementName_1>
