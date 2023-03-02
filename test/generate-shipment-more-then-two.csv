@@ -1,0 +1,6 @@
+"increment_id","shipment_track:track_number","shipment_track:title","shipment_track:carrier_code","shipment_track:skus"
+"U0000002","111000333442","United States Postal Service","usps","WT02-XL-Orange:1"
+"U0000002","111000333443","United States Postal Service","usps","WB04-XL-Yellow:1"
+"U0000002","111000333443","United States Postal Service","usps","WB03-XL-Red:1"
+"U0000002","111000333443","United States Postal Service","usps","WS01-XL-Black:1"
+"U0000002","111000333443","United States Postal Service","usps","WS02-XL-Blue:1"
