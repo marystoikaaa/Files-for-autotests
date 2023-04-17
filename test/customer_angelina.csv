@@ -1,0 +1,2 @@
+email,_website,_store,firstname,confirmation,created_at,created_in,disable_auto_group_change,dob,failures_num,first_failure,gender,group_id,lastname,lock_expires,middlename,password_hash,prefix,rp_token,rp_token_created_at,store_id,suffix,taxvat,updated_at,website_id,password
+angelina@example.com,base,default,Angelina,0,2018-01-16 9:48:37,Default Store View,0,1973-12-15,0,,Female,1,Olsen,,,ef55cebdb2034a893d94c36a259cd5edad7001c6bad560a4a45de8872f22944b:Dr0YM5KykTZZlAv628Fgk8A1ijMw6qHu:1,,09ae7838f74dc08343252255d7c69bf8,2018-01-16 9:48:37,1,,,2018-01-16 9:48:37,1,
