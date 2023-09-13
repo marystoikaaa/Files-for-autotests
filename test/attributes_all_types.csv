@@ -1,49 +1,47 @@
-attribute_code,attribute_set,entity_type,attribute_id,entity_type_id,attribute_model,backend_model,backend_type,backend_table,frontend_model,frontend_input,frontend_label,frontend_class,source_model,is_required,is_user_defined,default_value,is_unique,note,frontend_input_renderer,is_global,is_visible,is_searchable,is_filterable,is_comparable,is_visible_on_front,is_html_allowed_on_front,is_used_for_price_rules,is_filterable_in_search,used_in_product_listing,used_for_sort_by,apply_to,is_visible_in_advanced_search,position,is_wysiwyg_enabled,is_used_for_promo_rules,is_required_in_admin_store,is_used_in_grid,is_visible_in_grid,is_filterable_in_grid,search_weight,is_pagebuilder_enabled,additional_data,option:sort_order,option:swatch_value,option:value,store_id
-test_text_filed,"Default:Product Details:1",product,200,4,,,varchar,,,text,test_text_filed,,,0,1,,0,,,0,1,0,0,0,0,1,0,0,0,0,,0,0,0,0,0,1,1,1,1,0,,,,,
-test_text_area,"Default:Product Details:1",product,201,4,,,text,,,textarea,test_text_area,,,0,1,"test default",0,,,0,1,0,0,0,0,1,0,0,0,0,,0,0,0,0,0,1,1,1,1,0,,,,,
-,,,,,,,,,,,"test_text_area default",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-test_text_editor,"Default:Product Details:1",product,202,4,,,text,,,textarea,test_text_editor,,,0,1,,0,,,0,1,0,0,0,0,1,0,0,0,0,,0,0,1,0,0,1,1,1,1,0,,,,,
-,,,,,,,,,,,"test_text_editor default",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-test_page_builder,"Default:Product Details:1",product,203,4,,,text,,,textarea,test_page_builder,,,0,1,,0,,,0,1,0,0,0,0,1,0,0,0,0,,0,0,1,0,0,1,1,1,1,1,,,,,
-test_date,"Default:Product Details:1",product,204,4,,Magento\Eav\Model\Entity\Attribute\Backend\Datetime,datetime,,Magento\Eav\Model\Entity\Attribute\Frontend\Datetime,date,test_date,,,0,1,,0,,,1,1,0,0,0,0,1,0,0,0,0,,0,0,0,0,0,1,1,1,1,0,,,,,
-test_date_time,"Default:Product Details:1",product,205,4,,Magento\Eav\Model\Entity\Attribute\Backend\Datetime,datetime,,Magento\Eav\Model\Entity\Attribute\Frontend\Datetime,datetime,test_date_time,,,0,1,,0,,,0,1,0,0,0,0,1,0,0,0,0,,0,0,0,0,0,1,1,1,1,0,,,,,
-test_boolean,"Default:Product Details:1",product,206,4,,,int,,,boolean,test_boolean,,Magento\Eav\Model\Entity\Attribute\Source\Boolean,0,1,0,0,,,0,1,0,0,0,0,1,0,0,0,0,,0,0,0,0,0,1,1,1,1,0,,,,,
-test_multiple_select,"Default:Product Details:1",product,207,4,,Magento\Eav\Model\Entity\Attribute\Backend\ArrayBackend,text,,,multiselect,test_multiple_select,,,0,1,,0,,,0,1,0,0,0,0,1,0,0,0,0,,0,0,0,0,0,1,1,1,1,0,,1,,first,0
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,second,0
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,,third,0
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,"first default",1
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,"second default",1
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,,"third deafult",1
-test_dropdown,"Default:Product Details:1",product,208,4,,,int,,,select,test_dropdown,,Magento\Eav\Model\Entity\Attribute\Source\Table,0,1,,0,,,0,1,0,0,0,0,1,0,0,0,0,,0,0,0,0,0,1,1,1,1,0,,1,,one,0
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,two,0
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,,three,0
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,"one default",1
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,"two deafult",1
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,,"three default",1
-test_price,"Default:Product Details:1",product,209,4,,Magento\Catalog\Model\Product\Attribute\Backend\Price,decimal,,,price,test_price,,,0,1,,0,,,0,1,0,0,0,0,1,0,0,0,0,,0,0,0,0,0,1,1,1,1,0,,,,,
-test_media_image,"Default:Product Details:1",product,210,4,,,varchar,,Magento\Catalog\Model\Product\Attribute\Frontend\Image,media_image,test_media_image,,,0,1,,0,,,2,1,0,0,0,0,1,0,0,0,0,,0,0,0,0,0,1,1,1,1,0,,,,,
-test_fixed_product_tax,"Default:Product Details:1",product,211,4,,Magento\Weee\Model\Attribute\Backend\Weee\Tax,static,,,weee,test_fixed_product_tax,,,0,1,,0,,,0,1,0,0,0,0,1,0,0,0,0,"simple,virtual,bundle,configurable,downloadable,giftcard",0,0,0,0,0,1,1,1,1,0,,,,,
-test_visual_swatch,"Default:Product Details:1",product,212,4,,,int,,,select,test_visual_swatch,,Magento\Eav\Model\Entity\Attribute\Source\Table,0,1,,0,,,0,1,0,0,0,0,1,0,0,0,0,,0,0,0,0,0,1,1,1,1,0,"{""swatch_input_type"":""visual"",""update_product_preview_image"":""0"",""use_product_image_for_swatch"":""0""}",1,#d64dd6,pink,0
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,#7638e0,purple,0
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,#e02a36,red,0
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,"pink default",1
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,"purple default",1
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,,"red default",1
-test_text_swatch,"Default:Product Details:1",product,213,4,,,int,,,select,test_text_swatch,,Magento\Eav\Model\Entity\Attribute\Source\Table,0,1,,0,,,0,1,0,0,0,0,1,0,0,0,0,,0,0,0,0,0,1,1,1,1,0,"{""swatch_input_type"":""text"",""update_product_preview_image"":""0"",""use_product_image_for_swatch"":0}",1,test,one,0
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,test2,two,0
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,test3,three,0
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,"test def","one def",1
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,"test2 def","two def",1
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,"test3 def","three def",1
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,test,,3
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,test2,,3
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,test3,,3
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,test,,4
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,test2,,4
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,test3,,4
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,test,,5
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,test2,,5
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,test3,,5
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,test,,6
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,test2,,6
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,test3,,6
+"attribute_code","attribute_set","entity_type","attribute_id","entity_type_id","attribute_model","backend_model","backend_type","backend_table","frontend_model","frontend_input","frontend_label","frontend_class","source_model","is_required","is_user_defined","default_value","is_unique","note","frontend_input_renderer","is_global","is_visible","is_searchable","is_filterable","is_comparable","is_visible_on_front","is_html_allowed_on_front","is_used_for_price_rules","is_filterable_in_search","used_in_product_listing","used_for_sort_by","apply_to","is_visible_in_advanced_search","position","is_wysiwyg_enabled","is_used_for_promo_rules","is_required_in_admin_store","is_used_in_grid","is_visible_in_grid","is_filterable_in_grid","search_weight","is_pagebuilder_enabled","additional_data","option:sort_order","option:swatch_value","option:value","store_id"
+"test_text_filed","Default:Product Details:1","product","200","4","","","varchar","","","text","test_text_filed","","","0","1","","0","","","0","1","0","0","0","0","1","0","0","0","0","","0","0","0","0","0","1","1","1","1","0","","","","",""
+"test_text_area","Default:Product Details:1","product","201","4","","","text","","","textarea","test_text_area","","","0","1","test default","0","","","0","1","0","0","0","0","1","0","0","0","0","","0","0","0","0","0","1","1","1","1","0","","","","",""
+"test_text_editor","Default:Product Details:1","product","202","4","","","text","","","textarea","test_text_editor","","","0","1","","0","","","0","1","0","0","0","0","1","0","0","0","0","","0","0","1","0","0","1","1","1","1","0","","","","",""
+"test_page_builder","Default:Product Details:1","product","203","4","","","text","","","textarea","test_page_builder","","","0","1","","0","","","0","1","0","0","0","0","1","0","0","0","0","","0","0","1","0","0","1","1","1","1","1","","","","",""
+"test_date","Default:Product Details:1","product","204","4","","Magento\Eav\Model\Entity\Attribute\Backend\Datetime","datetime","","Magento\Eav\Model\Entity\Attribute\Frontend\Datetime","date","test_date","","","0","1","","0","","","1","1","0","0","0","0","1","0","0","0","0","","0","0","0","0","0","1","1","1","1","0","","","","",""
+"test_date_time","Default:Product Details:1","product","205","4","","Magento\Eav\Model\Entity\Attribute\Backend\Datetime","datetime","","Magento\Eav\Model\Entity\Attribute\Frontend\Datetime","datetime","test_date_time","","","0","1","","0","","","0","1","0","0","0","0","1","0","0","0","0","","0","0","0","0","0","1","1","1","1","0","","","","",""
+"test_boolean","Default:Product Details:1","product","206","4","","","int","","","boolean","test_boolean","","Magento\Eav\Model\Entity\Attribute\Source\Boolean","0","1","0","0","","","0","1","0","0","0","0","1","0","0","0","0","","0","0","0","0","0","1","1","1","1","0","","","","",""
+"test_multiple_select","Default:Product Details:1","product","207","4","","Magento\Eav\Model\Entity\Attribute\Backend\ArrayBackend","text","","","multiselect","test_multiple_select","","","0","1","","0","","","0","1","0","0","0","0","1","0","0","0","0","","0","0","0","0","0","1","1","1","1","0","","1","","first","0"
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","2","","second","0"
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","3","","third","0"
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","1","","first default","1"
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","2","","second default","1"
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","3","","third deafult","1"
+"test_dropdown","Default:Product Details:1","product","208","4","","","int","","","select","test_dropdown","","Magento\Eav\Model\Entity\Attribute\Source\Table","0","1","","0","","","0","1","0","0","0","0","1","0","0","0","0","","0","0","0","0","0","1","1","1","1","0","","1","","one","0"
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","2","","two","0"
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","3","","three","0"
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","1","","one default","1"
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","2","","two deafult","1"
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","3","","three default","1"
+"test_price","Default:Product Details:1","product","209","4","","Magento\Catalog\Model\Product\Attribute\Backend\Price","decimal","","","price","test_price","","","0","1","","0","","","0","1","0","0","0","0","1","0","0","0","0","","0","0","0","0","0","1","1","1","1","0","","","","",""
+"test_media_image","Default:Product Details:1","product","210","4","","","varchar","","Magento\Catalog\Model\Product\Attribute\Frontend\Image","media_image","test_media_image","","","0","1","","0","","","2","1","0","0","0","0","1","0","0","0","0","","0","0","0","0","0","1","1","1","1","0","","","","",""
+"test_fixed_product_tax","Default:Product Details:1","product","211","4","","Magento\Weee\Model\Attribute\Backend\Weee\Tax","static","","","weee","test_fixed_product_tax","","","0","1","","0","","","0","1","0","0","0","0","1","0","0","0","0","simple,virtual,bundle,configurable,downloadable,giftcard","0","0","0","0","0","1","1","1","1","0","","","","",""
+"test_visual_swatch","Default:Product Details:1","product","212","4","","","int","","","select","test_visual_swatch","","Magento\Eav\Model\Entity\Attribute\Source\Table","0","1","","0","","","0","1","0","0","0","0","1","0","0","0","0","","0","0","0","0","0","1","1","1","1","0","{""swatch_input_type"":""visual"",""update_product_preview_image"":""0"",""use_product_image_for_swatch"":""0""}","1","#d64dd6","pink","0"
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","2","#7638e0","purple","0"
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","3","#e02a36","red","0"
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","1","","pink default","1"
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","2","","purple default","1"
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","3","","red default","1"
+"test_text_swatch","Default:Product Details:1","product","213","4","","","int","","","select","test_text_swatch","","Magento\Eav\Model\Entity\Attribute\Source\Table","0","1","","0","","","0","1","0","0","0","0","1","0","0","0","0","","0","0","0","0","0","1","1","1","1","0","{""swatch_input_type"":""text"",""update_product_preview_image"":""0"",""use_product_image_for_swatch"":0}","1","test","one","0"
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","2","test2","two","0"
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","3","test3","three","0"
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","1","test def","one def","1"
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","2","test2 def","two def","1"
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","3","test3 def","three def","1"
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","1","test","","3"
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","2","test2","","3"
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","3","test3","","3"
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","1","test","","4"
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","2","test2","","4"
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","3","test3","","4"
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","1","test","","5"
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","2","test2","","5"
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","3","test3","","5"
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","1","test","","6"
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","2","test2","","6"
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","3","test3","","6"
