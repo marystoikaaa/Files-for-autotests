@@ -1,0 +1,2 @@
+_website,_email,_entity_id,city,company,country_id,fax,firstname,lastname,middlename,postcode,prefix,region,region_id,street1,street2,street3,street4,suffix,telephone,vat_id,vat_is_valid,vat_request_date,vat_request_id,vat_request_success,_address_default_billing_,_address_default_shipping_
+base,doe@test.com,2,Test,FireBear Studio,DE,,John,Doe,D,12345,Mr.,,0,Street 1,Street 2,Street 3,Street 4,Jr.,5555555555,EU555555555,0,,,1899-12-30 0:00:00,1,1
