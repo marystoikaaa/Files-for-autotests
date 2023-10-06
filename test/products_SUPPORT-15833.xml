@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Items>
+  <item>
+    <sku>ALL-T111048</sku>
+    <product_type>simple</product_type>
+    <categories><![CDATA[Default Category/Office & POS/Nützliches im Büro/Reinigungsmittel & Reinigungsgeräte/Handschuhe]]></categories>
+    <name><![CDATA[HYGOSTAR Einweghandschuh SAFE LIGHT 27069 Nitril S ws 100 St./Pack.]]></name>
+    <url_key><![CDATA[HYGOSTAR Einweghandschuh SAFE LIGHT 27069 Nitril S ws 100 St./Pack. (27069)]]></url_key>
+    <short_description><![CDATA[Texturierte Fingerspitzen für hervorragende Griffigkeit. Widerstandsfähig und fettbeständig. Größerer Schutz als bei Latex und Vinyl. Sehr elastisch und bis zur Reißgrenze dicht. Komfortabel, mit Rollrand. Universell einsetzbar. Egal ob in Medizin, Gastronomie oder Industrie: Die Handschuhe bringen jederzeit Höchstleistung – darauf können Sie sich verlassen. Besonders hautfreundlich. Ideal für alle, die lange und häufig mit Handschuhen arbeiten. Optimale Passform und ein angenehmes Tragegefühl sind Ihnen sicher. Der Handschuh kann sowohl als Schutzhandschuh gegen Chemikalien in Industrie und Labor getragen werden als auch als Hygienehandschuh für die Zubereitung von Speisen. Darüber hinaus kann er als medizinischer Handschuh getragen werden. Er schützt zuverlässig vor Infektionen und ist für den Umgang mit Zytostatika zugelassen. Sehr weich und angenehm zu tragen. Ausgezeichneter Nassgriff. Passt sich der Hand wie eine zweite Haut an. Optimale Wärmeableitung, kein Wärmestau. Keine Gefahr der Kontamination von Proben. Handschuhe sind unsteril. Gegen Viren, Bakterien und Pilze geprüft.]]></short_description>
+    <weight/>
+    <visibility>Catalog, Search</visibility>
+    <import_pdf_attachment>https://bilddaten.privatepilot.de/Soennecken/dokumente/Garantiebedingungen/universalschere/maul_garantietext_2jahre_gesamt.pdf || Garantiebedingungen || Garantiebedingungen || 1 ||| https://bilddaten.privatepilot.de/Soennecken/dokumente/Garantiebedingungen/universalschere/maul_garantietext_2jahre_gesamt.pdf || Garantiebedingungen || Garantiebedingungen || 2 ||| https://bilddaten.privatepilot.de/Soennecken/dokumente/Garantiebedingungen/universalschere/maul_garantietext_2jahre_gesamt.pdf || Garantiebedingungen || Garantiebedingungen || 3
+                        </import_pdf_attachment>
+    <price>3.54</price>
+    <meta_keywords>Einmalhandschuhe,Einweghandschuhe,Handschuhe,Hygieneartikel</meta_keywords>
+    <base_image>A011050W.jpg</base_image>
+    <small_image>A011050W.jpg</small_image>
+    <thumbnail_image>A011050W.jpg</thumbnail_image>
+    <additional_images/>
+    <qty>120</qty>
+    <qty_interval/>
+    <allowed_min_qty_to_order>1</allowed_min_qty_to_order>
+    <condition>New</condition>
+    <delivery_time>1 days</delivery_time>
+    <tebio_ean_number>4015544270693</tebio_ean_number>
+    <manufacturer_part_number>27069</manufacturer_part_number>
+    <tebio_brand>Franz Mensch GmbH</tebio_brand>
+    <create_attribute>
+      <attribute_code>olbestandig</attribute_code>
+      <frontend_input>select</frontend_input>
+      <is_required>0</is_required>
+      <is_global>1</is_global>
+      <is_unique>0</is_unique>
+      <attribute_set>Default</attribute_set>
+      <frontend_label>ölbeständig</frontend_label>
+      <is_visible_on_front>1</is_visible_on_front>
+      <position>1</position>
+      <value>Ja </value>
+    </create_attribute>
+    <create_attribute>
+      <attribute_code>best</attribute_code>
+      <frontend_input>select</frontend_input>
+      <is_required>0</is_required>
+      <is_global>1</is_global>
+      <is_unique>0</is_unique>
+      <attribute_set>Default</attribute_set>
+      <frontend_label>Bset</frontend_label>
+      <is_visible_on_front>1</is_visible_on_front>
+      <position>3</position>
+      <value>EN 374-5:2016 EN ISO 374-1:2016 TYP B. EN 455 1-4, EN 420:2003 + A1:2009 </value>
+    </create_attribute>
+    <create_attribute>
+      <attribute_code>werkstoff</attribute_code>
+      <frontend_input>select</frontend_input>
+      <is_required>0</is_required>
+      <is_global>1</is_global>
+      <is_unique>0</is_unique>
+      <attribute_set>Default</attribute_set>
+      <frontend_label>Werkstoff</frontend_label>
+      <is_visible_on_front>1</is_visible_on_front>
+      <position>3</position>
+      <value>Nitril </value>
+    </create_attribute>
+    <create_attribute>
+      <attribute_code>packungsmenge</attribute_code>
+      <frontend_input>select</frontend_input>
+      <is_required>0</is_required>
+      <is_global>1</is_global>
+      <is_unique>0</is_unique>
+      <attribute_set>Default</attribute_set>
+      <frontend_label>Packungsmenge</frontend_label>
+      <is_visible_on_front>1</is_visible_on_front>
+      <position>4</position>
+      <value>100 St./Pack. </value>
+    </create_attribute>
+    <create_attribute>
+      <attribute_code>werbliche_produkttypbezeichnung</attribute_code>
+      <frontend_input>select</frontend_input>
+      <is_required>0</is_required>
+      <is_global>1</is_global>
+      <is_unique>0</is_unique>
+      <attribute_set>Default</attribute_set>
+      <frontend_label>Werbliche Produkttypbezeichnung</frontend_label>
+      <is_visible_on_front>1</is_visible_on_front>
+      <position>5</position>
+      <value>Einweghandschuh SAFE LIGHT </value>
+    </create_attribute>
+    <create_attribute>
+      <attribute_code>produkttypbezeichnung</attribute_code>
+      <frontend_input>select</frontend_input>
+      <is_required>0</is_required>
+      <is_global>1</is_global>
+      <is_unique>0</is_unique>
+      <attribute_set>Default</attribute_set>
+      <frontend_label>Produkttypbezeichnung</frontend_label>
+      <is_visible_on_front>1</is_visible_on_front>
+      <position>6</position>
+      <value>SAFE LIGHT </value>
+    </create_attribute>
+    <create_attribute>
+      <attribute_code>farbe</attribute_code>
+      <frontend_input>select</frontend_input>
+      <is_required>0</is_required>
+      <is_global>1</is_global>
+      <is_unique>0</is_unique>
+      <attribute_set>Default</attribute_set>
+      <frontend_label>Farbe</frontend_label>
+      <is_visible_on_front>1</is_visible_on_front>
+      <position>7</position>
+      <value>weiß </value>
+    </create_attribute>
+  </item>
+</Items>
