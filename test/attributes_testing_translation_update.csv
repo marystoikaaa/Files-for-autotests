@@ -1,0 +1,7 @@
+store_id,attribute_code,option:base_value,option:value
+0,testing_translation,Green,Green
+0,testing_translation,Blue,Blue
+1,testing_translation,Green,Grun
+1,testing_translation,Blue,Blau
+2,testing_translation,Green,Grun2
+2,testing_translation,Blue,Blau2
