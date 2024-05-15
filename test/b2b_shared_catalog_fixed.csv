@@ -1,2 +1,2 @@
-name,description,type,sku,price_type,custom_price,tax_class_id
-Shared Catalog 1,Default shared catalog,1,TST-Conf-Simp-S-Gray,fixed,33,3
+"name","description","type","sku","price_type","custom_price","tax_class_id"
+"Shared Catalog 4","Default shared catalog","1","TST-Conf-Simp-S-Gray","fixed","33","3"
